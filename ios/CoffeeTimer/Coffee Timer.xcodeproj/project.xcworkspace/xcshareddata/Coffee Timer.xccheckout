@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CFA5152F-0988-4B06-B06F-1AB8C4DA0CA6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Coffee Timer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C3ACE0F99340B06772CC2B36C4B1E0D40A3047B</key>
+		<string>github.com:shanestillwell/ProgrammingMB.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/CoffeeTimer/Coffee Timer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C3ACE0F99340B06772CC2B36C4B1E0D40A3047B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:shanestillwell/ProgrammingMB.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C3ACE0F99340B06772CC2B36C4B1E0D40A3047B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C3ACE0F99340B06772CC2B36C4B1E0D40A3047B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ProgrammingMB</string>
+		</dict>
+	</array>
+</dict>
+</plist>
